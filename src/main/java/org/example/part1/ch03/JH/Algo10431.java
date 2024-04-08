@@ -1,4 +1,4 @@
-package org.example.part2.ch03.JH;
+package org.example.part1.ch03.JH;
 
 import java.io.BufferedReader;
 import java.io.IOException;
