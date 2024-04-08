@@ -1,8 +1,6 @@
-package org.example.part2.ch03.JH;
+package org.example.part1.ch03.JH;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class Algo10989 {
     public static void main(String[] args) throws IOException {
