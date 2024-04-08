@@ -1,4 +1,4 @@
-package org.example.part1.ch04.SJ;
+package org.example.part1.ch03.SJ;
 
 import java.io.*;
 import java.util.*;
