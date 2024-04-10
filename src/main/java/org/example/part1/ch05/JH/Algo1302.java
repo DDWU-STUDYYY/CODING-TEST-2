@@ -37,3 +37,8 @@ public class Algo1302 {
         System.out.println(maxTitle);
     }
 }
+/*
+ Map.Entry<String,Integer> title : titles.entrySet()
+ getKey()
+ getValue() 기억하기. containsKey("어쩌고")
+ */
