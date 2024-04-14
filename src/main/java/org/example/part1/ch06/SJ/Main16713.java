@@ -1,4 +1,4 @@
-package org.example.part1.ch06;
+package org.example.part1.ch06.SJ;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
